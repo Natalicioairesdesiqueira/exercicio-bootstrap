@@ -1,0 +1,32 @@
+body {
+    background-color: rgb(76, 111, 111);
+    display: flex;
+    align-items: center;
+    height: 100vh;
+}
+
+.container {
+    background-color: white;
+    padding: 32px;
+    border-radius: 30px; 
+    padding: 16px;
+    display:block;
+    align-items: center;
+    flex-direction: column;
+    width: 100%;
+    max-width: 800px;
+}
+
+button {
+    margin-top: 16px;
+}
+
+.form-check {
+    margin-top: 16px;
+}
+
+footer {
+    margin-top: 16px;
+    color: rgb(8, 7, 7);
+    font-size: 12px;
+}
